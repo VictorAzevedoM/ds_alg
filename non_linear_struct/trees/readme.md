@@ -40,3 +40,5 @@ Remoção (Deletion):
     A complexidade da remoção envolve a manutenção da estrutura da árvore após a remoção do nó desejado, garantindo que a propriedade da Árvore Binária seja mantida.
 
 Esses conceitos básicos abordam o funcionamento fundamental de uma Árvore Binária em termos de inserção, travessia, busca e remoção. Cada operação possui suas próprias complexidades e considerações, que podem variar dependendo da implementação específica ou da estrutura da árvore em questão.
+
+
